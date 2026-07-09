@@ -1,4 +1,4 @@
-module github.com/fadymondy/services
+module github.com/togo-framework/services
 
 go 1.26.4
 

@@ -2,13 +2,13 @@
 
 Service resource with features & icons and slug detail pages.
 
-- **Source:** https://github.com/fadymondy/services
+- **Source:** https://github.com/togo-framework/services
 - **Reference app:** https://fadymondy.com
 
 ## Install
 
 ```bash
-togo install fadymondy/services
+togo install togo-framework/services
 ```
 
 The plugin self-registers on blank-import (no manual wiring). See the top-level
